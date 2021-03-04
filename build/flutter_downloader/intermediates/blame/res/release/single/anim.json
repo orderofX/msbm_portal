@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/mssn/msbmportal_app/build/flutter_downloader/intermediates/res/merged/release/anim/fragment_fade_exit.xml",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/0df8c856ca12f94fcc855fea2ebcf758/fragment-1.2.5/res/anim/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "/Users/mssn/msbmportal_app/build/flutter_downloader/intermediates/res/merged/release/anim/fragment_open_enter.xml",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/0df8c856ca12f94fcc855fea2ebcf758/fragment-1.2.5/res/anim/fragment_open_enter.xml"
+    },
+    {
+        "merged": "/Users/mssn/msbmportal_app/build/flutter_downloader/intermediates/res/merged/release/anim/fragment_close_enter.xml",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/0df8c856ca12f94fcc855fea2ebcf758/fragment-1.2.5/res/anim/fragment_close_enter.xml"
+    },
+    {
+        "merged": "/Users/mssn/msbmportal_app/build/flutter_downloader/intermediates/res/merged/release/anim/fragment_open_exit.xml",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/0df8c856ca12f94fcc855fea2ebcf758/fragment-1.2.5/res/anim/fragment_open_exit.xml"
+    },
+    {
+        "merged": "/Users/mssn/msbmportal_app/build/flutter_downloader/intermediates/res/merged/release/anim/fragment_close_exit.xml",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/0df8c856ca12f94fcc855fea2ebcf758/fragment-1.2.5/res/anim/fragment_close_exit.xml"
+    },
+    {
+        "merged": "/Users/mssn/msbmportal_app/build/flutter_downloader/intermediates/res/merged/release/anim/fragment_fade_enter.xml",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/0df8c856ca12f94fcc855fea2ebcf758/fragment-1.2.5/res/anim/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "/Users/mssn/msbmportal_app/build/flutter_downloader/intermediates/res/merged/release/anim/fragment_fast_out_extra_slow_in.xml",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/0df8c856ca12f94fcc855fea2ebcf758/fragment-1.2.5/res/anim/fragment_fast_out_extra_slow_in.xml"
+    }
+]

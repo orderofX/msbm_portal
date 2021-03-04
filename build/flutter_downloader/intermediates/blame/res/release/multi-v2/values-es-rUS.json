@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mssn/msbmportal_app/build/flutter_downloader/intermediates/res/merged/release/values-es-rUS/values-es-rUS.xml",
+            "map": [
+                {
+                    "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/12bc70280942f512a048fec74c4b4d1c/core-1.3.1/res/values-es-rUS/values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mssn/msbmportal_app/build/flutter_downloader/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rUS/values-es-rUS.xml",
+            "map": [
+                {
+                    "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/12bc70280942f512a048fec74c4b4d1c/core-1.3.1/res/values-es-rUS/values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
